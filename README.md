@@ -1,10 +1,42 @@
 # Your Next Skill
 
-**AI upskilling that helps professionals figure out what to learn next — and turn AI knowledge into practical, real-world skills.**
+**Find out what AI skill to learn next.**
 
-Your Next Skill is an AI learning and enablement platform created by **Rocky Phoenix AI**. It is designed for professionals who want a clearer path from *“I use AI”* to *“I know how to apply AI effectively at work.”*
+Your Next Skill is a guided, self-paced AI learning and enablement platform from **Rocky Phoenix AI**, designed to help business and non-engineering professionals turn AI interest into practical skills they can use at work.
 
 > **Status:** Public Beta
+
+![Your Next Skill overview](upskill%20your%20team.png)
+
+## See It in Action
+
+▶️ **[Watch the product demo](your%20next%20skill.mp4)**
+
+The demo walks through the experience so professionals and team leaders can understand the product without completing the full learning journey themselves.
+
+### Find your starting point
+
+Users choose the AI level that best describes where they are today, creating a clearer starting point for skill development.
+
+<img src="Screenshot_20260918_081735_Lovable.jpg" width="420" alt="Your Next Skill AI level selection screen">
+
+### Identify what to learn next
+
+Instead of presenting one large course catalog, the experience helps users focus on the skill that makes sense for them now.
+
+<img src="Screenshot_20260918_081728_Lovable.jpg" width="420" alt="Your Next Skill landing page">
+
+### Learn through practical lessons
+
+Lessons are designed around workplace application rather than AI theory alone. Foundational AI-literacy lessons remain available across learning levels.
+
+<img src="Screenshot_20260918_081757_Lovable.jpg" width="420" alt="AI privacy security and verification lessons">
+
+### Continue where you left off
+
+The platform tracks lesson state so learners can return to skills already in progress instead of starting over.
+
+<img src="Screenshot_20260918_081821_Lovable.jpg" width="420" alt="Your Next Skill in-progress learning screen">
 
 ## Why I Built It
 
@@ -14,62 +46,33 @@ Your Next Skill creates a more practical learning path. Users can assess their c
 
 ## How It Works
 
-1. **Assess your starting point** — Beginner, Intermediate, Advanced, or Highly Skilled.
+1. **Assess your starting point** — Beginner, Intermediate, Advanced, or Applied & Leadership.
 2. **Identify the next skill** instead of trying to learn everything at once.
 3. **Learn through focused lessons** built around practical workplace use.
-4. **Apply the skill** through exercises, projects, and capstones.
-5. **Progress into strategy and enablement** as your technical and business fluency grows.
+4. **Apply the skill** through exercises, projects, prompt packs, and capstones.
+5. **Track progress** and continue building toward more advanced AI capabilities.
 
 ## Learning Paths
 
 ### AI Foundations — Lessons for Everyone
 
-Core AI literacy topics designed to matter regardless of role or experience level:
-
-- Safe AI Use
-- Responsible AI
-- AI Ethics & Bias
-- AI Privacy, Security & Data Awareness
-- Verifying AI Information
-- AI & the Environment
+Core AI literacy topics designed to matter regardless of role or experience level include safe and responsible AI use, ethics and bias, privacy/security/data awareness, verification, and AI's environmental impact.
 
 ### Beginner
 
-Build confidence using AI tools and organizing everyday AI work.
-
-- Connectors
-- Projects Basics
-- Managing AI Usage
-- Prompt Packs
-- Beginner Capstone
+Build confidence using AI tools and organizing everyday AI work through connectors, projects, AI usage management, prompt packs, and a capstone.
 
 ### Intermediate
 
-Move from using AI features to designing repeatable solutions.
-
-- Problem Framing
-- Build Your First Custom GPT
-- Tool Stacking
-- Digital Twin
-- Docs & Decks
-- Brand & Templates
+Move from using AI features to designing repeatable solutions through problem framing, custom GPTs, tool stacking, digital twins, documents/decks, and brand/template systems.
 
 ### Advanced
 
-Build more sophisticated AI-enabled workflows and systems.
+Build more sophisticated AI-enabled workflows and systems across automation, APIs, data, agents, workflow design, and testing/evaluation.
 
-- Automation
-- APIs
-- Data
-- Agents
-- Workflow Design
-- Testing & Evaluation
+### Applied & Leadership
 
-### Applied AI & Leadership
-
-For professionals and teams moving beyond individual AI usage into organizational adoption, strategy, and enablement.
-
-Topics include AI strategy, responsible adoption, workforce enablement, workflow transformation, and practical implementation.
+Move beyond individual AI usage into organizational adoption, strategy, workforce enablement, responsible implementation, and workflow transformation.
 
 ## What Makes Your Next Skill Different
 
@@ -89,13 +92,7 @@ The platform connects AI literacy with the things professionals increasingly nee
 
 ## Built With
 
-The current product has been developed using a modern AI-assisted product stack including:
-
-- Lovable
-- Claude
-- Make.com
-- Google Workspace
-- AI-assisted product design and rapid prototyping
+The current product has been developed using an AI-assisted product stack including Lovable, Claude, Make.com, Google Workspace, and rapid AI-assisted product design and prototyping.
 
 ## Current Beta
 
@@ -103,9 +100,7 @@ Your Next Skill is currently being tested with professionals and HR/business lea
 
 This repository is the **public product showcase** for the project. It intentionally does not expose private application logic, credentials, protected content, user data, or production configuration.
 
-## Project Goals
-
-The project explores a broader question:
+## Project Goal
 
 > How do we help people build the AI skills they actually need next — without requiring them to become AI engineers?
 
@@ -117,22 +112,11 @@ Your Next Skill was created by **Ashley Harvey**, AI Strategy and Enablement Adv
 
 Rocky Phoenix AI helps professionals and organizations move from AI experimentation to practical adoption through hands-on AI training, enablement, workflow design, and custom AI solutions.
 
-## Repository Structure
+## More Project Documentation
 
-```text
-your-next-skill/
-├── README.md
-├── docs/
-│   ├── PRODUCT.md
-│   ├── LEARNING-PATHS.md
-│   └── ROADMAP.md
-└── assets/
-    └── README.md
-```
-
-## Demo & Visuals
-
-A product demo and additional screenshots will be added to the `assets` section of this repository so visitors can see the experience without needing to complete the full beta journey.
+- [Product Overview](docs/PRODUCT.md)
+- [Learning Paths](docs/LEARNING-PATHS.md)
+- [Roadmap](docs/ROADMAP.md)
 
 ---
 
