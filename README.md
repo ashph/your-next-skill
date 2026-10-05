@@ -2,121 +2,59 @@
 
 **Find out what AI skill to learn next.**
 
-Your Next Skill is a guided, self-paced AI learning and enablement platform from **Rocky Phoenix AI**, designed to help business and non-engineering professionals turn AI interest into practical skills they can use at work.
+Your Next Skill is a guided, self-paced AI learning platform from **Rocky Phoenix AI**, built to help professionals turn AI interest into practical skills they can use at work.
 
 > **Status:** Public Beta
 
-![Your Next Skill overview](upskill%20your%20team.png)
+![Your Next Skill overview](assets/team-overview.png)
 
 ## See It in Action
 
-▶️ **[Watch the product demo](your%20next%20skill.mp4)**
+▶️ **[Watch the product demo](assets/product-demo.mp4)**
 
-The demo walks through the experience so professionals and team leaders can understand the product without completing the full learning journey themselves.
+Your Next Skill gives professionals a clear starting point, recommends practical learning paths, and helps them build skills progressively rather than trying to learn everything at once.
 
-### Find your starting point
+### Choose your starting point
 
-Users choose the AI level that best describes where they are today, creating a clearer starting point for skill development.
+<img src="assets/skill-levels.jpg" width="500" alt="Your Next Skill skill level selection">
 
-<img src="Screenshot_20260918_081735_Lovable.jpg" width="420" alt="Your Next Skill AI level selection screen">
+Learners identify their current AI experience so they can focus on content appropriate to where they are now.
 
-### Identify what to learn next
+### Build practical AI skills
 
-Instead of presenting one large course catalog, the experience helps users focus on the skill that makes sense for them now.
+<img src="assets/foundations.jpg" width="500" alt="Your Next Skill AI literacy lessons">
 
-<img src="Screenshot_20260918_081728_Lovable.jpg" width="420" alt="Your Next Skill landing page">
+Learning includes foundational AI literacy such as safe AI use, responsible AI, ethics and bias, privacy and security, verification, and environmental awareness, alongside progressively more applied skills.
 
-### Learn through practical lessons
+### Keep progressing
 
-Lessons are designed around workplace application rather than AI theory alone. Foundational AI-literacy lessons remain available across learning levels.
+<img src="assets/progress.jpg" width="500" alt="Your Next Skill progress tracking">
 
-<img src="Screenshot_20260918_081757_Lovable.jpg" width="420" alt="AI privacy security and verification lessons">
-
-### Continue where you left off
-
-The platform tracks lesson state so learners can return to skills already in progress instead of starting over.
-
-<img src="Screenshot_20260918_081821_Lovable.jpg" width="420" alt="Your Next Skill in-progress learning screen">
-
-## Why I Built It
-
-AI learning can quickly become a collection of disconnected tutorials, certificates, prompts, and tools. Knowing *what* to learn next — and how that skill applies to actual work — is often the harder problem.
-
-Your Next Skill creates a more practical learning path. Users can assess their current skill level, explore structured lessons, and build toward increasingly applied AI capabilities.
-
-## How It Works
-
-1. **Assess your starting point** — Beginner, Intermediate, Advanced, or Applied & Leadership.
-2. **Identify the next skill** instead of trying to learn everything at once.
-3. **Learn through focused lessons** built around practical workplace use.
-4. **Apply the skill** through exercises, projects, prompt packs, and capstones.
-5. **Track progress** and continue building toward more advanced AI capabilities.
+The experience helps learners return to lessons in progress and continue building toward more advanced AI capabilities.
 
 ## Learning Paths
 
-### AI Foundations — Lessons for Everyone
+**AI Foundations** · **Beginner** · **Intermediate** · **Advanced** · **Applied & Leadership**
 
-Core AI literacy topics designed to matter regardless of role or experience level include safe and responsible AI use, ethics and bias, privacy/security/data awareness, verification, and AI's environmental impact.
+Topics progress from responsible everyday AI use and prompting into problem framing, custom GPTs, tool stacking, automation, APIs, agents, workflow design, and organizational AI enablement.
 
-### Beginner
+## Why I Built It
 
-Build confidence using AI tools and organizing everyday AI work through connectors, projects, AI usage management, prompt packs, and a capstone.
+AI learning can quickly become a collection of disconnected tutorials, certificates, prompts, and tools. The harder question is often: **What should I learn next, and how will I actually use it at work?**
 
-### Intermediate
-
-Move from using AI features to designing repeatable solutions through problem framing, custom GPTs, tool stacking, digital twins, documents/decks, and brand/template systems.
-
-### Advanced
-
-Build more sophisticated AI-enabled workflows and systems across automation, APIs, data, agents, workflow design, and testing/evaluation.
-
-### Applied & Leadership
-
-Move beyond individual AI usage into organizational adoption, strategy, workforce enablement, responsible implementation, and workflow transformation.
-
-## What Makes Your Next Skill Different
-
-This isn't designed around collecting more AI certificates. The focus is **skill progression and application**.
-
-The platform connects AI literacy with the things professionals increasingly need to do at work: frame problems, choose tools, build workflows, evaluate AI output, automate tasks, communicate AI concepts, and help teams adopt AI responsibly.
-
-## Product Principles
-
-**Practical over theoretical.** Lessons should connect to work someone actually needs to do.
-
-**AI literacy before automation.** Responsible use, privacy, verification, and judgment are foundational skills — not optional extras.
-
-**Progressive skill building.** Users should be able to see how foundational AI usage develops into workflow design, automation, agents, and strategy.
-
-**Built for non-engineers too.** AI transformation requires far more than technical implementation. Business, HR, operations, learning, recruiting, and other professionals need applied AI fluency as well.
+Your Next Skill is designed around that question. The focus is not collecting more AI certificates — it's building practical capability step by step.
 
 ## Built With
 
-The current product has been developed using an AI-assisted product stack including Lovable, Claude, Make.com, Google Workspace, and rapid AI-assisted product design and prototyping.
+Lovable · Claude · Make.com · Google Workspace · AI-assisted product design and rapid prototyping
 
-## Current Beta
+## About
 
-Your Next Skill is currently being tested with professionals and HR/business leaders. Beta feedback is being used to improve the learning experience, interactivity, navigation, and progression model before broader release.
-
-This repository is the **public product showcase** for the project. It intentionally does not expose private application logic, credentials, protected content, user data, or production configuration.
-
-## Project Goal
-
-> How do we help people build the AI skills they actually need next — without requiring them to become AI engineers?
-
-The goal is to make AI upskilling more understandable, practical, responsible, and connected to real work.
-
-## About Rocky Phoenix AI
-
-Your Next Skill was created by **Ashley Harvey**, AI Strategy and Enablement Advisor at **Rocky Phoenix AI**.
+Your Next Skill was created by **Ashley Harvey, AI Strategy and Enablement Advisor at Rocky Phoenix AI**.
 
 Rocky Phoenix AI helps professionals and organizations move from AI experimentation to practical adoption through hands-on AI training, enablement, workflow design, and custom AI solutions.
 
-## More Project Documentation
-
-- [Product Overview](docs/PRODUCT.md)
-- [Learning Paths](docs/LEARNING-PATHS.md)
-- [Roadmap](docs/ROADMAP.md)
+This repository is a public product showcase. Private application logic, credentials, protected learning content, user data, and production configuration are not included.
 
 ---
 
